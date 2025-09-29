@@ -82,6 +82,9 @@
 
 <br>
 
+![Snake animation](https://github.com/ViniVFR/ViniVFR/blob/output/github-contribution-grid-snake.svg)
+
+<br>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=100&section=footer"/>
