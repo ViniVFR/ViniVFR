@@ -81,9 +81,11 @@
 ##
 
 <br>
+<div align=center>
+<img src="https://raw.githubusercontent.com/ViniVFR/ViniVFR/output/snake.svg" alt="Snake animation"/> 
+</div>
 
-![Snake animation](https://github.com/ViniVFR/ViniVFR/blob/output/github-contribution-grid-snake.svg)
-
+##
 <br>
 <br>
 
